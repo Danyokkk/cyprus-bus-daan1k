@@ -1,0 +1,14 @@
+[
+  {
+    "stop_id": "NPT_1001",
+    "stop_name": "Nicosia Central",
+    "stop_lat": 35.173,
+    "stop_lon": 33.369
+  },
+  {
+    "stop_id": "EMEL_2002",
+    "stop_name": "Limassol Central",
+    "stop_lat": 34.667,
+    "stop_lon": 33.034
+  }
+]
